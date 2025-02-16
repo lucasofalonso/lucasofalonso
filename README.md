@@ -9,7 +9,7 @@
 ## 📄 Publications
 1. **Multipole Approach to the Dynamical Casimir Effect with
 Finite-Size Scatterers** – *Entropy*, 2024.  
-   - 🔗 [DOI/Link para o artigo]([https://link-do-artigo](https://www.mdpi.com/1099-4300/26/3/251))
+   - 🔗 [DOI/Link para o artigo](https://www.mdpi.com/1099-4300/26/3/251)
 
 
 ## Course Notes:
