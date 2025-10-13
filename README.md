@@ -14,6 +14,8 @@
 - **Multipole Approach to the Dynamical Casimir Effect with
 Finite-Size Scatterers** – *Entropy*, 2024.  
    - 🔗 [DOI/Link](https://www.mdpi.com/1099-4300/26/3/251)
+- **Enhancement of Electric Drive in Silicon Quantum Dots with Electric Quadrupole Spin Resonance**
+   - 🔗 [DOI/Link](https://doi.org/10.48550/arXiv.2502.01040).
 
 
 ## Course Notes:
