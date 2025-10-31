@@ -5,7 +5,7 @@
 - **B.Sc. in Physics** – Universidade Federal Fluminense (UFF), 2020  
 - **Direct Ph.D. in Physics** – Universidade Federal Fluminense (UFF) (2020 - Present)  
   - Enrolled in the **Direct Ph.D. Program**, which integrates the Master's and Ph.D. into a single track.
-  - Research focused on Quantum electrodynamics and Quantum computation in condensed matter systems.
+  - Research focused on Quantum electrodynamics, Quantum computation and ML models in condensed matter systems.
 
 
 
