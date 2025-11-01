@@ -30,5 +30,5 @@ I occasionally explore other domains using data-driven approaches.
 
 - [**Clustering Seismic Events**](https://github.com/lucasofalonso/clustering-seismic-events)  
   *K-Means and PCA applied to global earthquake data to identify regional seismic patterns.*  
-  Includes interactive visualization with Folium and a concise technical report (PDF) describing methodology and findings.
+  Includes an [interactive map](https://lucasofalonso.github.io/clustering-seismic-events/cluster_map.html) built with Folium and a concise technical report (PDF) describing methodology and findings.
 
