@@ -22,6 +22,7 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 
 - 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/lucasofalonso/ML-zoomcamp-2024)
 
+
 ## 🌎 Side Projects
 
 In addition to my main work on Machine Learning applied to Condensed Matter Physics,  
