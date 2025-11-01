@@ -21,3 +21,13 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 ## Course Notes:
 
 - 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/lucasofalonso/ML-zoomcamp-2024)
+
+## 🌎 Side Projects
+
+In addition to my main work on Machine Learning applied to Condensed Matter Physics,  
+I occasionally explore other domains using data-driven approaches.
+
+- [**Clustering Seismic Events**](https://github.com/lucasofalonso/clustering-seismic-events)  
+  *K-Means and PCA applied to global earthquake data to identify regional seismic patterns.*  
+  Includes interactive visualization with Folium and a concise technical report (PDF) describing methodology and findings.
+
