@@ -25,10 +25,8 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 
 ## 🌎 Main Project
 
-In addition to my main work on Machine Learning applied to Condensed Matter Physics,  
-I occasionally explore other domains using data-driven approaches.
+- [**Dynamics of Seismic Regimes**](https://github.com/lucasofalonso/seismic-regime-dynamics)  
 
-- [**Clustering Seismic Events**](https://github.com/lucasofalonso/seismic-regime-dynamics)  
-  *K-Means and PCA applied to global earthquake data to identify regional seismic patterns.*  
-  Includes an [interactive map](https://lucasofalonso.github.io/clustering-seismic-events/cluster_map.html) built with Folium and a concise technical report (PDF) describing methodology and findings.
+Uncovering global seismic patterns using Unsupervised Learning and Stochastic Processes. This project applies K-Means clustering on temporal feature spaces (entropy, energy, rate) to identify distinct planetary seismic states, validating them via Markov Chain analysis.
+📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/clusters_map.html). This generated example highlights the spatial projection of the "Critical Regime," showing how the Nazca subduction zone acted as a primary energetic driver for the Pacific Ring of Fire during that period.
 
