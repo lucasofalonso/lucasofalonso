@@ -31,5 +31,12 @@ Uncovering global seismic patterns using Unsupervised Learning and Stochastic Pr
 📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters-map.html
 ). This generated example highlights the spatial projection of the "Critical Regime," showing how the Nazca subduction zone acted as a primary energetic driver for the Pacific Ring of Fire during that period.
 
-- [**ML Regression for Predicting the Band-gap of unknown materials**](https://github.com/lucasofalonso/band-gap-regression)  
+- [**ML Regression for Predicting the Band-gap of unknown materials**](https://github.com/lucasofalonso/band-gap-regression)
+
+Supervised ML approach for band gap prediction using tabular material descriptors, featuring a reproducible regression pipeline with model optimization and validation. 
+
+- [**ML Regression for Predicting the Formation Energy of 2D Materials**](https://github.com/lucasofalonso/formation-energy-regression)
+
+Supervised ML approach using Ridge and Lasso regression to predict formation energy of 2D materials from structural and atomic descriptors, emphasizing model simplicity, regularization, and interpretability.
+
 
