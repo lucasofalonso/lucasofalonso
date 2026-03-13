@@ -40,13 +40,7 @@ Comparative study of Logistic Regression, MLP, and 1D CNN for identifying splice
 
 Supervised ML approach for band gap prediction using tabular material descriptors, featuring a reproducible regression pipeline with model optimization and validation. 
 
-- [**ML Regression for Predicting the Formation Energy of 2D Materials**](https://github.com/lucasofalonso/formation-energy-regression)
 
-Supervised ML approach using Ridge and Lasso regression to predict formation energy of 2D materials from structural and atomic descriptors, emphasizing model simplicity, regularization, and interpretability.
-
-- [**ML Classification for Distinguishing Metallic and Insulating Materials**](https://github.com/lucasofalonso/metal-insulator-classification)
-
-Supervised ML approach for binary classification of materials as metals or insulators using tabular descriptors, featuring interpretable classifiers, standard preprocessing, and reproducible evaluation.
 
 
 
