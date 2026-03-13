@@ -30,6 +30,10 @@ Uncovering global seismic patterns using Unsupervised Learning and Stochastic Pr
 📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters-map.html
 ). This generated example highlights the spatial projection of the "Critical Regime," showing how the Nazca subduction zone acted as a primary energetic driver for the Pacific Ring of Fire during that period.
 
+## 🧬🔬 Machine Learning for Biophysics
+- [**Splice-Junction Classification**](https://github.com/lucasofalonso/splice-junction-classification)  
+Comparative study of Logistic Regression, MLP, and 1D CNN for identifying splice-junction regions in DNA sequences. Features one-hot encoding of nucleotide sequences, stratified evaluation with F1-macro, and a discussion of why convolutional architectures are naturally suited for local motif detection in biological sequences.
+
 ## 🧪 Machine Learning for Materials Science
 
 - [**ML Regression for Predicting the Band-gap of unknown materials**](https://github.com/lucasofalonso/band-gap-regression)
