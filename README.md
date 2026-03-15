@@ -36,7 +36,6 @@ Comparative study of Logistic Regression, MLP, and 1D CNN for identifying splice
 ## 🧪 Machine Learning for Materials Science
 
 - [**ML Regression for Predicting the Band-gap of unknown materials**](https://github.com/lucasofalonso/band-gap-regression)
-
 Supervised ML approach for band gap prediction using tabular material descriptors, featuring a reproducible regression pipeline with model optimization and validation. 
 
 
