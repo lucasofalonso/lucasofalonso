@@ -23,7 +23,7 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 - 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/lucasofalonso/ML-zoomcamp-2024)
 
 
-## 🌎 Main Project
+## 🌎 Seismic Time-Series Analysis
 
 - [**Dynamics of Seismic Regimes**](https://github.com/lucasofalonso/seismic-regime-dynamics)  
 Identifying emergent seismic regimes using Unsupervised Learning, Markov Chains, and Deep Learning. The pipeline applies K-Means clustering on temporal feature spaces (energy, rate, spatial dispersion) to uncover distinct seismic macrostates, models their dynamics via Markov transition matrices, and validates regime predictability with a 1D CNN. Includes sensitivity analysis across multiple temporal scales, formal memoryless testing (KS), and regional analysis of the Indonesia/Sumatra subduction zone. Data is ingested from the USGS API and stored in SQLite for structured querying.  
