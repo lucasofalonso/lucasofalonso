@@ -26,9 +26,8 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 ## 🌎 Main Project
 
 - [**Dynamics of Seismic Regimes**](https://github.com/lucasofalonso/seismic-regime-dynamics)  
-Uncovering global seismic patterns using Unsupervised Learning and Stochastic Processes. This project applies K-Means clustering on temporal feature spaces (entropy, energy, rate) to identify distinct planetary seismic states, validating them via Markov Chain analysis.
-📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters_map_mag4p5_2026_06_6m.html
-). This generated example highlights the spatial projection of the "Critical Regime," showing how the Nazca subduction zone acted as a primary energetic driver for the Pacific Ring of Fire during that period.
+Identifying emergent seismic regimes using Unsupervised Learning, Markov Chains, and Deep Learning. The pipeline applies K-Means clustering on temporal feature spaces (energy, rate, spatial dispersion) to uncover distinct seismic macrostates, models their dynamics via Markov transition matrices, and validates regime predictability with a 1D CNN. Includes sensitivity analysis across multiple temporal scales, formal memoryless testing (KS), and regional analysis of the Indonesia/Sumatra subduction zone. Data is ingested from the USGS API and stored in SQLite for structured querying.  
+  📊 [Interactive 3D/MAP (case study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters_map_mag4p5_2026_06_6m.html) — spatial projection of clusters on real world map.
 
 ## 🧬🔬 Machine Learning for Biophysics
 - [**Splice-Junction Classification**](https://github.com/lucasofalonso/splice-junction-classification)  
