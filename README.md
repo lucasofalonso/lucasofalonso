@@ -27,7 +27,7 @@ Finite-Size Scatterers** – *Entropy*, 2024.
 
 - [**Dynamics of Seismic Regimes**](https://github.com/lucasofalonso/seismic-regime-dynamics)  
 Uncovering global seismic patterns using Unsupervised Learning and Stochastic Processes. This project applies K-Means clustering on temporal feature spaces (entropy, energy, rate) to identify distinct planetary seismic states, validating them via Markov Chain analysis.
-📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters-map.html
+📊 Includes an [interactive 3D/MAP (2024 Case Study)](https://lucasofalonso.github.io/seismic-regime-dynamics/reports/clusters_map_mag4p5_2026_06_6m.html
 ). This generated example highlights the spatial projection of the "Critical Regime," showing how the Nazca subduction zone acted as a primary energetic driver for the Pacific Ring of Fire during that period.
 
 ## 🧬🔬 Machine Learning for Biophysics
