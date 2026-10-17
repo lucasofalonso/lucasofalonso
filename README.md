@@ -1,11 +1,10 @@
 # A physicist coding | ML & Data Science  
 
+Physicist and postdoctoral researcher at UFMG, collaborating with UFRJ on machine learning applied to genomic data. My work combines bioinformatics, data pipelines, predictive modeling, and research assistants using LLMs.
 
-## Education:
-- **B.Sc. in Physics** – Universidade Federal Fluminense (UFF), 2020  
-- **Direct Ph.D. in Physics** – Universidade Federal Fluminense (UFF) (2020 - 2025)  
-  - Enrolled in the **Direct Ph.D. Program**, which integrates the Master's and Ph.D. into a single track.
-  - Research focused on Quantum electrodynamics, Quantum computation and ML models in condensed-matter systems.
+LLMs & AI Agents
+🧬 C. auris Clade Assistant
+LLM/RAG research assistant for exploring results from a Candida auris genomic-surveillance pipeline. Combines hybrid lexical and vector retrieval, structured queries over exported genomic results, answers with source references, and a Streamlit interface. Includes retrieval benchmarking on 345 generated questions, prompt comparison, and answer evaluation.
 
 
 
@@ -18,9 +17,11 @@ Finite-Size Scatterers** – *Entropy*, 2024.
    - 🔗 [DOI/Link](https://doi.org/10.48550/arXiv.2502.01040).
 
 
-## Course Notes:
+## 🚧 Projects in Development
 
-- 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/lucasofalonso/ML-zoomcamp-2024)
+### [Bibliometric RAG Assistant](https://github.com/lucasofalonso/bibliometric-rag-assistant)
+
+Research assistant for bibliometric analysis and scientific literature exploration. Combines PubMed data ingestion, Crossref metadata enrichment, SQLite storage, and an LLM agent with typed tools for bibliographic queries. Ongoing development includes additional data sources and RAG for answering questions grounded in the collected literature.
 
 
 ## 🌎 Seismic Time-Series Analysis
@@ -33,10 +34,7 @@ Identifying emergent seismic regimes using Unsupervised Learning, Markov Chains,
 - [**Splice-Junction Classification**](https://github.com/lucasofalonso/splice-junction-classification)  
 Comparative study of Logistic Regression, MLP, and 1D CNN for identifying splice-junction regions in DNA sequences. Features one-hot encoding of nucleotide sequences, stratified evaluation with F1-macro, and a discussion of why convolutional architectures are naturally suited for local motif detection in biological sequences.
 
-## 🧪 Machine Learning for Materials Science
 
-- [**ML Regression for Predicting the Band-gap of unknown materials**](https://github.com/lucasofalonso/band-gap-regression)
-Supervised ML approach for band gap prediction using tabular material descriptors, featuring a reproducible regression pipeline with model optimization and validation. 
 
 
 
